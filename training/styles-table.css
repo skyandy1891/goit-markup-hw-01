@@ -1,0 +1,43 @@
+          /* оформление таблицы */
+
+/* table {
+  box-shadow: 2px 2px 2px 2px hsla(0, 0%, 0%, 0.2);
+  margin: 3rem;
+  font-family: sans-serif;
+  border-collapse: collapse;
+  
+  
+  
+}
+caption {
+  font-size: 20px;
+  margin-bottom: 1rem;
+}
+thead {
+  background-color: #555;
+  color: #fff;
+}
+
+td,
+th {
+  padding: 0.5rem 1rem;
+  border: 1px solid #888;
+  text-align: center;
+}
+
+td[colspan] {
+  background-color: #eee;
+}
+.table {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    overflow-x: auto;
+} */
+          /* оформление плеера */
+/* audio {
+    background: #000;
+  display: flex;
+margin: auto;
+border-radius: 20px;
+background: skyblue;} */
